@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573060261720",
+    "project_id": "autowhats-dc729",
+    "storage_bucket": "autowhats-dc729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573060261720:android:2ddad6bcc7b33983de672d",
+        "android_client_info": {
+          "package_name": "com.example.auto_whats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573060261720-vv355g8n8qbonuld6ltda90l5foii9e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auto_whats",
+            "certificate_hash": "95bc5136f4e6233883896f290866bd9bf388861b"
+          }
+        },
+        {
+          "client_id": "573060261720-c803sm8515jvvp3o40lva1b8b2p9q087.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvkUvj9rE0p0PiQkTy8shs0qdp7EIN_Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573060261720-c803sm8515jvvp3o40lva1b8b2p9q087.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
